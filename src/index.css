@@ -1,0 +1,30 @@
+.gjs-pn-panel.gjs-pn-commands.gjs-one-bg.gjs-two-color {
+  position: fixed !important;
+}
+.gjs-pn-panel.gjs-pn-devices-c.gjs-one-bg.gjs-two-color {
+  position: fixed !important;
+}
+.gjs-pn-panel.gjs-pn-options.gjs-one-bg.gjs-two-color {
+  position: fixed !important;
+  z-index: 9;
+}
+
+.gjs-pn-panel.gjs-pn-views.gjs-one-bg.gjs-two-color {
+  position: fixed !important;
+}
+.gjs-two-color {
+  color: #5ea4ef !important;
+}
+.gjs-one-bg {
+  background-color: #000 !important;
+}
+
+.gjs-block.gjs-one-bg.gjs-four-color-h {
+  width: 26% !important;
+}
+.gjs-cv-canvas {
+  width: 80% !important;
+}
+.gjs-pn-panel.gjs-pn-views-container.gjs-one-bg.gjs-two-color {
+  width: 19% !important;
+}

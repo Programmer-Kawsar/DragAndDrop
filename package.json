@@ -1,0 +1,44 @@
+{
+  "name": "draganddrop",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@silexlabs/grapesjs-ui-suggest-classes": "^1.0.23",
+    "grapesjs": "^0.21.7",
+    "grapesjs-component-countdown": "^1.0.2",
+    "grapesjs-custom-code": "^1.0.2",
+    "grapesjs-navbar": "^1.0.2",
+    "grapesjs-plugin-ckeditor": "^1.0.1",
+    "grapesjs-plugin-export": "^1.0.12",
+    "grapesjs-plugin-filestack": "^0.1.1",
+    "grapesjs-plugin-forms": "^2.0.6",
+    "grapesjs-preset-webpage": "^1.0.3",
+    "grapesjs-style-bg": "^2.0.2",
+    "grapesjs-style-gradient": "^3.0.3",
+    "grapesjs-tooltip": "^0.1.8",
+    "grapesjs-touch": "^0.1.1",
+    "grapesjs-tui-image-editor": "^1.0.2",
+    "grapesjs-typed": "^2.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.1",
+    "sass": "^1.69.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@vitejs/plugin-react-swc": "^3.5.0",
+    "eslint": "^8.53.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.4",
+    "vite": "^5.0.0"
+  }
+}
